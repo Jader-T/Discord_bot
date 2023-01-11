@@ -12,7 +12,7 @@ class talks(commands.Cog):
 
     @commands.command()
     async def commands(self, ctx):
-        comandos = "**invocation symbol**: $\n" + "**Commands**: commands, oi"
+        comandos = "**invocation symbol**: $\n" + "**Commands**: {commands}, {oi}"
         await ctx.send(comandos)
 def setup(bot):
     bot.add_cog(talks(bot))

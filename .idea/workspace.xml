@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a7962c6-4516-4dbe-89f2-fae5a7c72827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SIN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/talks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Discord_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Discord_bot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palavroes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neto_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SIN.py" beforeDir="false" afterPath="$PROJECT_DIR$/SIN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/talks.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/talks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +47,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/commands" />
       <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/commands" />
+      <recent name="$PROJECT_DIR$/SIN_BOT" />
       <recent name="$PROJECT_DIR$/commands/teste" />
       <recent name="$USER_HOME$/Downloads" />
-      <recent name="$PROJECT_DIR$/venv/commands/tasks" />
     </key>
   </component>
   <component name="RunManager" selected="Python.SIN">
@@ -143,8 +142,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.SIN" />
-        <item itemvalue="Python.talks" />
         <item itemvalue="Python.manager" />
+        <item itemvalue="Python.talks" />
         <item itemvalue="Python.SIN_bot" />
       </list>
     </recent_temporary>
